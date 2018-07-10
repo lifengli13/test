@@ -22,3 +22,4 @@ test
 
 test2
 >>>>>>> origin/master
+Feature2
