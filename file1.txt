@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Some information here
+=======
+Adding some code here
+Adding yet more code
+
+Fix1
+>>>>>>> origin/master
