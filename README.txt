@@ -23,7 +23,11 @@ test
 
 test2
 >>>>>>> origin/master
+<<<<<<< HEAD
 =======
 Feature1
 hahaha
 >>>>>>> feature1
+=======
+Feature2
+>>>>>>> feature2_additional
