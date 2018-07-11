@@ -2,6 +2,7 @@
 Hello Git
 Second line
 Updating README with new information
+<<<<<<< HEAD
 =======
 Hello, Git
 Updating README with new information
@@ -22,3 +23,7 @@ test
 
 test2
 >>>>>>> origin/master
+=======
+Feature1
+hahaha
+>>>>>>> feature1
